@@ -116,7 +116,7 @@ export default function AnalyticsPage() {
         </div>
       </div>
 
-      <div className="p-6 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900">
+      <div className="p-6 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 hey there this is the coderabbit poc">
         <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">
           Key Insights
         </h2>
