@@ -72,7 +72,7 @@ export default function PortfolioPage() {
           </p>
         </div>
         <div className="p-6 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900">
-          <p className="text-sm text-gray-600 dark:text-gray-400 mb-2">
+          <p className="text-sm text-gray-600 dark:text-gray-400 mb-2 this is a coderabbit poc">
             Total Gain/Loss
           </p>
           <div className="flex items-center space-x-2">
